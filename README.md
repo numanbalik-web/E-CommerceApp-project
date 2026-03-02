@@ -19,7 +19,7 @@ It simulates a small online shopping experience including:
 
 ![Fullscreen](./screen/fullscreen.png)
 ## 🖼️ Fullscreen View
-![Fullscreen]<img src="screen/fullscreen.png" width="100%" />
+![Fullscreen](/screen/fullscreen.png)
 
 ## 🚀 Technologies Used
 
