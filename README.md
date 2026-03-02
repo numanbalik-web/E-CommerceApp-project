@@ -1,9 +1,5 @@
 # 🛒 E-CommerceApp
 
-## 🎬 Demo Preview
-<img src="screen/demovideo.gif" width="100%" />
-
----
 
 ## 📌 Project Overview
 
@@ -14,12 +10,6 @@ It simulates a small online shopping experience including:
 - Cart management
 - Dynamic data rendering using a structured JSON file (`db.json`)
 
----
-## 🖥 Fullscreen Preview
-
-![Fullscreen](./screen/fullscreen.png)
-## 🖼️ Fullscreen View
-![Fullscreen](/screen/fullscreen.png)
 
 ## 🚀 Technologies Used
 
@@ -40,15 +30,6 @@ It simulates a small online shopping experience including:
 - Organized JS folder structure
 
 ---
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](./screen/screen1.png)
-
-### 🛍 Product Listing
-![Product Listing](./screen/screen2.png)
-
 
 ## 📂 Project Structure
 
