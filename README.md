@@ -1,8 +1,7 @@
 # 🛒 E-CommerceApp
 
-## 🎬 Demo Video
-
-![Demo Video](screen/demovideo.gif)
+## 🎬 Demo Preview
+<img src="screen/demovideo.gif" width="100%" />
 
 ---
 
