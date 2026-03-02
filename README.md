@@ -2,7 +2,7 @@
 
 ## 🎬 Demo Video
 
-![Demo Video](./screen/demovideo.gif)
+![Demo Video](screen/demovideo.gif)
 
 ---
 
