@@ -5,26 +5,6 @@ Bu projede **HTML, CSS ve özellikle JavaScript** kullanılarak daha dinamik ve 
 
 ---
 
-## 🎬 Demo Preview
-<img src="screen/demovideo.gif" width="100%" />
-
----
-
-## 🖼️ Fullscreen View
-<img src="screen/fullscreen.png" width="100%" />
-
----
-
-## 🧩 Interface Screens
-
-### 📱 Screen 1
-<img src="screen/screen1.png" width="100%" />
-
-### 🧾 Screen 2
-<img src="screen/screen2.png" width="100%" />
-
----
-
 ## 🧠 JavaScript Odak Noktaları
 - ✅ DOM manipülasyonu
 - ✅ Event handling (tıklama / etkileşim)
