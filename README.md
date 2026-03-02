@@ -2,7 +2,7 @@
 
 ## 🎬 Demo Video
 
-![Demo Video](screen/demovideo.gif)
+![Demo Video](./screen/demovideo.gif)
 
 ---
 
@@ -18,7 +18,7 @@ It simulates a small online shopping experience including:
 ---
 ## 🖥 Fullscreen Preview
 
-![Fullscreen](screen/fullscreen.png)
+![Fullscreen](./screen/fullscreen.png)
 
 ## 🚀 Technologies Used
 
@@ -43,10 +43,10 @@ It simulates a small online shopping experience including:
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screen/screen1.png)
+![Home Page](./screen/screen1.png)
 
 ### 🛍 Product Listing
-![Product Listing](screen/screen2.png)
+![Product Listing](./screen/screen2.png)
 
 
 ## 📂 Project Structure
