@@ -1,5 +1,7 @@
 # 🛒 E-CommerceApp
 
+## 🎬 Demo Video
+
 ![Demo Video](screen/demovideo.gif)
 
 ---
@@ -14,9 +16,9 @@ It simulates a small online shopping experience including:
 - Dynamic data rendering using a structured JSON file (`db.json`)
 
 ---
-### 🖥 Fullscreen Preview
-![Fullscreen](screen/fullscreen.png)
+## 🖥 Fullscreen Preview
 
+![Fullscreen](screen/fullscreen.png)
 
 ## 🚀 Technologies Used
 
@@ -38,7 +40,7 @@ It simulates a small online shopping experience including:
 
 ---
 
-## 🖼 Screenshots
+## 📸 Screenshots
 
 ### 🏠 Home Page
 ![Home Page](screen/screen1.png)
@@ -46,7 +48,6 @@ It simulates a small online shopping experience including:
 ### 🛍 Product Listing
 ![Product Listing](screen/screen2.png)
 
----
 
 ## 📂 Project Structure
 
