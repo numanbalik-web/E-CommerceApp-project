@@ -1,5 +1,8 @@
 # 🛒 E-CommerceApp
 
+<p align="center">
+  <img src="screen/demovideo.gif" width="100%" />
+</p>
 
 ## 📌 Project Overview
 
